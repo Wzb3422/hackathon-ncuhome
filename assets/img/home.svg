@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="291.781" viewBox="0 0 412 291.781">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.025" y1="0.405" x2="0.972" y2="0.776" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#33d3bc"/>
+      <stop offset="0.498" stop-color="#26cec3"/>
+      <stop offset="1" stop-color="#15cbb1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.836" x2="0.907" y2="0.688" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0ac3d2"/>
+      <stop offset="1" stop-color="#00a0b2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.025" y1="0.405" x2="0.972" y2="0.776" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#33d3bc"/>
+      <stop offset="0.498" stop-color="#26cec3"/>
+      <stop offset="1" stop-color="#33d3bc"/>
+    </linearGradient>
+  </defs>
+  <g id="组_2" data-name="组 2" transform="translate(-1118.466 766)">
+    <path id="路径_3" data-name="路径 3" d="M1362.424-707.521c88.621,2.493,155,51.129,155,51.129l.152,21.743s-61.091-41.748-139.064-48.04C1378.513-682.77,1362.283-707.582,1362.424-707.521Z" transform="translate(1578.981 -2132.311) rotate(123)" fill="url(#linear-gradient)"/>
+    <path id="路径_2" data-name="路径 2" d="M1240.781-684.83s51.79-44.493,137.42-44.493,136.593,43.947,136.579,43.955a53.742,53.742,0,0,1-.092,20.3c-.029-.007-56.986-41.544-136.487-40.885s-137.42,40.67-137.42,40.67Z" transform="translate(-42.406 -36.677)" fill="url(#linear-gradient-2)"/>
+    <path id="路径_5" data-name="路径 5" d="M1240.781-678.681s8.3-12.066,44.341-20.344c.047-.015,15.61,23.783,15.556,23.771-43.625,6.8-59.9,18.815-59.9,18.815Z" transform="translate(1578.981 -2132.311) rotate(123)" fill="url(#linear-gradient-3)"/>
+    <text id="HACK_WEEK" data-name="HACK WEEK" transform="translate(1118.466 -615.435)" fill="#fff" font-size="70" font-family="Arial" font-weight="600" letter-spacing="0.09em"><tspan x="0" y="0">Hackathon</tspan></text>
+    <text id="NCUHOME" transform="translate(1267 -693)" fill="#fff" font-size="25" font-family="Arial" font-weight="600" letter-spacing="0.08em"><tspan x="0" y="0">NCUHOME</tspan></text>
+  </g>
+</svg>
