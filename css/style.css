@@ -103,7 +103,7 @@ body {
   .award-item .card-title {
     margin: 0;
     padding: 1.75rem 1.25rem;
-    background: linear-gradient(135deg, #F57F6A, #F5D28E);
+    background: linear-gradient(135deg, #FF5722, #FFAB91);
     color: #FFF; }
   .award-item .card-title-2 {
     background: linear-gradient(135deg, #3A63DA, #359DF4); }
@@ -111,6 +111,10 @@ body {
     background: linear-gradient(135deg, #90C657, #CFDE4F); }
   .award-item .card-title-4 {
     background: linear-gradient(135deg, #49C2D7, #ABF0EB); }
+  .award-item .card-title-5 {
+    background: linear-gradient(135deg, #F57F6A, #F5D28E); }
+  .award-item .card-title-6 {
+    background: linear-gradient(135deg, #9C27B0, #CE93D8); }
   .award-item .card-text {
     padding: 1.25rem;
     border: 1px solid rgba(0, 0, 0, 0.125);
