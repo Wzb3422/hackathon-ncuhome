@@ -1,0 +1,20 @@
+{
+  "name": "react-ts-scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node ./deploy/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wzb3422/hackathon-ncuhome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wzb3422/hackathon-ncuhome/issues"
+  },
+  "homepage": "https://github.com/Wzb3422/hackathon-ncuhome#readme"
+}
