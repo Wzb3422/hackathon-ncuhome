@@ -1048,8 +1048,7 @@ pre {
   .btn:hover, .btn:focus {
     text-decoration: none; }
   .btn:focus, .btn.focus {
-    outline: 0;
-    box-shadow: 0 0 0 0.2rem #03A9F4 }
+    outline: 0;}
   .btn.disabled, .btn:disabled {
     opacity: 0.65; }
   .btn:not(:disabled):not(.disabled) {
@@ -1069,7 +1068,7 @@ fieldset:disabled a.btn {
     color: #fff;
     background-color: #03A9F4; }
   .btn-primary:focus, .btn-primary.focus {
-    box-shadow: 0 0 0 0.2rem #BBDEFB; }
+}
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff;
     background-color: #4fb2ff;
