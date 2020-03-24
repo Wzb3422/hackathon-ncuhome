@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - '10.16.0'
+
+# 创建cache目录 ，防止每次编译打包都下载
+cache:
+  directories:
+    - node_modules
+    - tools
+
+before_install:
+  - cd oss-static
+  - npm install
+  - cd -
+
+script:
+  - npm run deploy
+
